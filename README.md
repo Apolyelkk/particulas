@@ -3,4 +3,4 @@
 
 <p align="center"><img src="./img/sim.gif" alt=""></p>
 
-<a align="center" href="https://supar-particulis.netlify.app/"> Clique aqui para ver o projeto</a>
+<p align="center"><a href="https://supar-particulis.netlify.app/"> Clique aqui para ver o projeto</a></p>
